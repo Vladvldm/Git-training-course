@@ -1,6 +1,6 @@
 # Git and Github course.
 
-Git crash course by Vladilen Minin.
+Git crash course by.
 -------------------------------------------------
 Основные команды
 git init<br>
